@@ -22,3 +22,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Felipe's github stats](https://github-readme-stats.vercel.app/api?username=felipe-ssilva&count_private=true&show_icons=true&theme=dark)](https://github.com/felipe-ssilva)
+  
+[![Felipe's Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=felipe-ssilva&count_private=true&show_icons=true&theme=dark)](https://github.com/felipe-ssilva)
