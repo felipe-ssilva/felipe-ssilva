@@ -1,7 +1,7 @@
 ### Hey, I'm Felipe! 👋
 
-🤓 Developer at [Grupo Boticário](https://www.linkedin.com/company/grupo-boticario/) <br>
-🇧🇷 Living in SP, Brazil <br>
+🤓 Partner at [Trig Digital](https://www.trig.digital/) <br>
+Living in SP, Brazil <br>
 
 ### Find me elsewhere 🌎
 
