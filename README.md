@@ -1,7 +1,6 @@
-### Hey, I'm Felipe! 👋
+### Hey, I'm Felipe!
 
-🤓 Partner at [Trig Digital](https://www.trig.digital/) <br>
-Living in SP, Brazil <br>
+![Studying](https://c.tenor.com/XrgDJdPlGvoAAAAM/school-study.gif)
 
 ### Find me elsewhere 🌎
 
